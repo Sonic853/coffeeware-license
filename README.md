@@ -28,4 +28,7 @@ This repo contains the license in **.md** format and a badge in **.png** format.
 
 Cheers!
 
+*P.S. Based on the [beerware license][2]*
+
   [1]: https://spideroak.com/share/PBSW433EMVZXS43UMVWXG/78656e6f6465/var/CDN/xenodecdn/github-assets/coffeeware-logo.png
+  [2]: https://en.wikipedia.org/wiki/Beerware
