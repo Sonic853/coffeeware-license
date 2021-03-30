@@ -30,5 +30,5 @@ Cheers!
 
 *P.S. Based on the [beerware license][2]*
 
-  [1]: https://spideroak.com/share/PBSW433EMVZXS43UMVWXG/78656e6f6465/srv/CDN/xenodecdn/github-assets/coffeeware-logo.png
+  [1]: https://user-images.githubusercontent.com/8389962/112956677-492ec300-9173-11eb-89a9-50b6992880dd.png
   [2]: https://en.wikipedia.org/wiki/Beerware
