@@ -1,16 +1,16 @@
 ![coffeeware-logo][1]
 
-# Coffeeware License
+# Coffeeware License （咖啡软件许可证）
 
 [README](README.md) | [中文文档](README_zh.md)
 
-### A software license made for programmers
+### 专为程序员设计的软件许可证
 
-According to the internet:
+根据互联网：
 
-> ***Programmer:*** a tool which converts caffeine into code
+> ***程序员：*** 一个将咖啡因转换成代码的工具
 
-Hence, the coffeeware license had to be released to the public, there you go:
+因此，咖啡软件许可证发布于公共领域，输入以下内容：
 
     **"THE COFFEEWARE LICENSE" (Revision 2):**
     
@@ -26,11 +26,11 @@ Hence, the coffeeware license had to be released to the public, there you go:
       [1]: http://your-website.tld
       [2]: http://socialnetwork.tld/your-profile
 
-This repo contains the license in **.md** format and a badge in **.png** format. Feel free to use this license in your own projects and tell others about it.
+此仓库包含 **.md** 格式的许可证和 **.png** 格式的徽章。你可以在您自己的项目中随意使用此许可证，并告诉其他人。 
 
-Cheers!
+干杯！
 
-*P.S. Based on the [beerware license][2]*
+*附：基于该 [啤酒软件许可证][2]*
 
   [1]: coffeeware-logo.png
   [2]: https://en.wikipedia.org/wiki/Beerware
